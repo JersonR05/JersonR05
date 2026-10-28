@@ -8,14 +8,14 @@ Coordino equipos de desarrollo y acompaño cohortes de campers mientras construi
 
 - Agentes de IA con **LangGraph** y RAG sobre bases vectoriales (Qdrant, Chroma)
 - Integraciones y enrutamiento multilínea de **WhatsApp** para atención y ventas
-- Plataformas CRM y SaaS multi-tenant con backends en **Node.js / TypeScript** y **Python**
+- Plataformas CRM y SaaS multi-tenant con backends en **Node.js / TypeScript**, **Python** y **PHP / Laravel**
 - Automatización de flujos con **n8n** y generación de documentos (PDF, Excel)
 - Despliegue en VPS Ubuntu: Nginx, PM2, MySQL, Redis, Certbot
 
 ### Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,py,react,vite,mysql,redis,nginx,ubuntu,git&perline=12" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,py,php,laravel,react,vite,mysql,redis,nginx,ubuntu,git&perline=14" alt="Stack" />
 </p>
 
 **IA y automatización:** LangGraph · RAG · Qdrant · Chroma · n8n · WhatsApp Business API
